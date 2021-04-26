@@ -1,8 +1,8 @@
-[@aureooms/js-longest-common-substring](https://aureooms.github.io/js-longest-common-substring)
+[@aureooms/js-longest-common-substring](https://make-github-pseudonymous-again.github.io/js-longest-common-substring)
 ==
 
 Longest common substring for JavaScript.
-See [docs](https://aureooms.github.io/js-longest-common-substring/index.html).
+See [docs](https://make-github-pseudonymous-again.github.io/js-longest-common-substring/index.html).
 
 [![License](https://img.shields.io/github/license/aureooms/js-longest-common-substring.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-longest-common-substring/master/LICENSE)
 [![NPM version](https://img.shields.io/npm/v/@aureooms/js-longest-common-substring.svg?style=flat)](https://www.npmjs.org/package/@aureooms/js-longest-common-substring)
@@ -13,4 +13,4 @@ See [docs](https://aureooms.github.io/js-longest-common-substring/index.html).
 [![Code Climate](https://img.shields.io/codeclimate/github/aureooms/js-longest-common-substring.svg?style=flat)](https://codeclimate.com/github/aureooms/js-longest-common-substring)
 [![NPM downloads per month](https://img.shields.io/npm/dm/@aureooms/js-longest-common-substring.svg?style=flat)](https://www.npmjs.org/package/@aureooms/js-longest-common-substring)
 [![GitHub issues](https://img.shields.io/github/issues/aureooms/js-longest-common-substring.svg?style=flat)](https://github.com/aureooms/js-longest-common-substring/issues)
-[![Documentation](https://aureooms.github.io/js-longest-common-substring/badge.svg)](https://aureooms.github.io/js-longest-common-substring/source.html)
+[![Documentation](https://make-github-pseudonymous-again.github.io/js-longest-common-substring/badge.svg)](https://make-github-pseudonymous-again.github.io/js-longest-common-substring/source.html)

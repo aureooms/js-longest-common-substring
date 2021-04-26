@@ -40,7 +40,7 @@
   "files": [
     "lib"
   ],
-  "homepage": "https://aureooms.github.io/js-longest-common-substring",
+  "homepage": "https://make-github-pseudonymous-again.github.io/js-longest-common-substring",
   "keywords": ["algorithm", "common", "longest", "substring"],
   "license": "AGPL-3.0",
   "main": "lib/index.js",
