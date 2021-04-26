@@ -20,7 +20,7 @@
     }
   },
   "bugs": {
-    "url": "https://github.com/aureooms/js-longest-common-substring/issues"
+    "url": "https://github.com/make-github-pseudonymous-again/js-longest-common-substring/issues"
   },
   "dependencies": {},
   "devDependencies": {
@@ -46,7 +46,7 @@
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/aureooms/js-longest-common-substring"
+    "url": "https://github.com/make-github-pseudonymous-again/js-longest-common-substring"
   },
   "scripts": {
     "build": "rm -rf lib && babel src -d lib",
